@@ -2,3 +2,4 @@
 	fullname CDATA #REQUIRED
 	group (К6-361|К6-362) #REQUIRED
 >
+<!ELEMENT student EMPTY>
